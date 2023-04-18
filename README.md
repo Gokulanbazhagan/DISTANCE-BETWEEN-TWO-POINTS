@@ -33,4 +33,5 @@ print("{:.2f}".format(distance))
 ![Screenshot (55)](https://user-images.githubusercontent.com/119518996/229991398-6bd8c438-e367-4a43-9cc3-b3d6922b9da4.png)
 
 
-### RESULT: program for DISTANCE-BETWEEN-TWO-PIONTS executed successfully.
+### RESULT:
+program for DISTANCE-BETWEEN-TWO-PIONTS executed successfully.
